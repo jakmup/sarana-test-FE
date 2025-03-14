@@ -1,6 +1,6 @@
 # 🚀 Sarana Frontend Test
 
-Welcome to the **Sarana Frontend Test** repository! This project is a frontend application built using modern web technologies.
+Welcome to the **Sarana Frontend Test** repository! 
 
 ## 🔧 Setup & Installation
 
@@ -24,18 +24,4 @@ Follow these steps to get started:
 
 4. **Access the application**
    - Open your browser and go to: [http://localhost:5173](http://localhost:5173)
-   - Log in using your credentials
-
-## 📌 Features
-- User authentication
-- Modern UI/UX
-- Fast development workflow
-
-## 🤝 Contributing
-Feel free to fork this repository and submit pull requests! Contributions are always welcome. 
-
-## 📜 License
-This project is licensed under [Your License Here].
-
----
-Made with ❤️ by [Your Name]
+   - Log in using your credentials 
